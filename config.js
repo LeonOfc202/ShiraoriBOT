@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner  = ['6281351047727', '380942618992'] // letakkan nomor kalian disini
+global.owner  = ['6287760550924', '6287760550924'] // letakkan nomor kalian disini
 global.mods  = JSON.parse(fs.readFileSync('./src/moderator.json')) // orang terpercaya?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -32,10 +32,10 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'SHIRAORI️BOT'
-global.author = 'ilman'
+global.packname = '𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑𝖬𝖣'
+global.author = '𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓𝐙'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu..*_'
+global.wait = '_*tunggu YA syg..*_'
 global.eror = '*_Server Eror_*'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.tle = 'https://telegra.ph/file/ecb8f7d2c12d075fc4729.jpg',
