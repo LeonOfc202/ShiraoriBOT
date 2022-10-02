@@ -8,3 +8,9 @@ let handler = async (m, { conn }) => {
         global.db.data.users[m.sender].level = Infinity
         
 }
+
+handler.help = ['cheat']
+handler.command = /^(cheat)$/i
+handler.owner = true
+
+module.exports = handler
